@@ -1,0 +1,2 @@
+# WVI
+Wasserstein Variational Inference
